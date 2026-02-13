@@ -8,7 +8,11 @@
 
 ###
 
-<p align="left">Mi nombre es Miguel Angel Zapata Gutierrez. Soy un desarrollador de Software en proceso de aprendizaje. Interesado y apasionado por este mundo y dispuesto a diferentes retos....</p>
+<p align="left">
+Soy <strong>Miguel Angel Zapata Gutierrez</strong>, desarrollador de software enfocado en el desarrollo Back-End con C# y .NET.
+Me apasiona la arquitectura limpia, las buenas prácticas y la construcción de APIs escalables.
+Siempre en constante aprendizaje y preparado para nuevos retos profesionales.
+</p>
 
 ###
 
@@ -16,7 +20,14 @@
 
 ###
 
-<p align="left">✨ Enfocado en C# .NET - ASP.NET Core <br>📚 Clean Architecture con separacion de capas DDD<br>🎯 Conocimientos en React, Vue, Typescript<br>🎲 Desarrollo de APIs FullStacks<br>💡 Constante aprendizaje para cada dia mejorar más y más...</p>
+<p align="left">
+💻 Especializado en C# .NET y ASP.NET Core<br>
+🏗️ Implementación de Clean Architecture y principios SOLID<br>
+🔐 Autenticación con JWT y manejo de roles<br>
+⚡ Desarrollo de APIs RESTful y aplicaciones FullStack<br>
+📚 En constante crecimiento y aprendizaje técnico y profesional<br>
+💡 Conocimientos en React, Vue y Typescript<br>
+</p>
 
 ###
 
@@ -57,6 +68,22 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
 </div>
+
+###
+
+<h2 align="left">📫 Contacto</h2>
+
+<p align="left">
+🔗 LinkedIn: (https://www.linkedin.com/in/miguel-angel-zapata-gutierrez-b76bb03a0/)<br>
+📧 Email: (miguelzg1911@gmail.com)
+</p>
+
+###
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight" height="150"/>
 
 ###
 
