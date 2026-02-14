@@ -82,8 +82,8 @@ Siempre en constante aprendizaje y preparado para nuevos retos profesionales.
 
 <h2 align="left">📊 GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=miguelzg1911&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelzg1911&layout=compact&theme=tokyonight" height="150"/>
 
 ###
 
