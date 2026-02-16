@@ -82,9 +82,16 @@ Siempre en constante aprendizaje y preparado para nuevos retos profesionales.
 
 <h2 align="left">📊 GitHub Stats</h2>
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miguelzg1911&theme=tokyonight)
-
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelzg1911&theme=tokyonight)
+<div align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miguelzg1911&theme=tokyonight" 
+    height="180"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelzg1911&theme=tokyonight" 
+    height="180"
+  />
+</div>
 
 ###
 
