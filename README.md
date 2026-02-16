@@ -66,7 +66,7 @@ Siempre en constante aprendizaje y preparado para nuevos retos profesionales.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rider" height="40" alt="rider logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" />
 </div>
 
 ###
@@ -82,10 +82,19 @@ Siempre en constante aprendizaje y preparado para nuevos retos profesionales.
 
 <h2 align="left">📊 GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=miguelzg1911&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelzg1911&layout=compact&theme=tokyonight" height="150"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=miguelzg1911&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+  height="150"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelzg1911&layout=compact&theme=tokyonight&hide_border=true" 
+  height="150"
+/>
 
 ###
+
+<h2 align="left">🐍 Contribution Graph</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miguelzg1911/miguelzg1911/output/pacman-dark.svg">
