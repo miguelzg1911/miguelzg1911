@@ -94,7 +94,9 @@ Siempre en constante aprendizaje y preparado para nuevos retos profesionales.
 
 ###
 
+###
 <h2 align="left">🐍 Contribution Graph</h2>
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miguelzg1911/miguelzg1911/output/pacman-dark.svg">
