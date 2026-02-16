@@ -88,9 +88,9 @@ Siempre en constante aprendizaje y preparado para nuevos retos profesionales.
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzag/maurodesouzag/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouzag/maurodesouzag/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzag/maurodesouzag/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miguelzg1911/miguelzg1911/output/pacman-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miguelzg1911/miguelzg1911/output/pacman.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/miguelzg1911/miguelzg1911/output/pacman.svg">
 </picture>
 
 ###
